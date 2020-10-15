@@ -1,0 +1,11 @@
+>>> reload(TextProcessing88)
+{u'this': 1394, u'from': 1088, u'with': 1722, u'have': 768, u'that': 3085}
+{u'from': 541, u'with': 992, u'they': 521, u'have': 819, u'that': 1385}
+{u'thou': 284, u'said': 477, u'with': 293, u'unto': 598, u'that': 520}
+{u'will': 851, u'this': 812, u'with': 937, u'have': 997, u'that': 1726}
+{u'what': 201, u'part': 1022, u'join': 1021, u'here': 185, u'that': 284}
+{u'this': 67, u'what': 92, u'well': 62, u'your': 76, u'that': 106}
+{u'from': 391, u'said': 628, u'with': 398, u'have': 325, u'that': 848}
+{u'with': 46, u'slim': 33, u'male': 42, u'lady': 88, u'ship': 33}
+{u'said': 507, u'with': 561, u'they': 318, u'syme': 519, u'that': 871}
+u'that'

@@ -1,0 +1,8 @@
+def count_words(filename):
+
+
+
+###
+filename = input()
+var = count_words(filename)
+print(var)

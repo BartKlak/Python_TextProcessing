@@ -1,0 +1,11 @@
+>>> reload(TextProcessing9)
+All words:222390	Stopwords: 107902	 Stopword ratio:0.485192679527
+All words:123527	Stopwords: 66747	 Stopword ratio:0.540343406705
+All words:38507	Stopwords: 20160	 Stopword ratio:0.523541174332
+All words:132793	Stopwords: 69536	 Stopword ratio:0.523642059446
+All words:41756	Stopwords: 13063	 Stopword ratio:0.312841268321
+All words:12702	Stopwords: 4758	 Stopword ratio:0.374586679263
+All words:91527	Stopwords: 30486	 Stopword ratio:0.333082041365
+All words:3890	Stopwords: 849	 Stopword ratio:0.218251928021
+All words:60349	Stopwords: 30396	 Stopword ratio:0.503670317652
+

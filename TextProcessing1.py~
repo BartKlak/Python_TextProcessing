@@ -1,0 +1,10 @@
+def contain_alphabet(list_words, alphabet):
+    
+
+
+
+###
+list_words = input()
+alphabet = input()
+final_list = contain_alphabet(list_words, alphabet)
+print(final_list)
